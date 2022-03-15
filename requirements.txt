@@ -1,0 +1,28 @@
+##### Core packages
+#matplotlib~=3.4.3
+### funktinoiert nicht mit dieser Version
+# Zusätzlich muss das Ubuntu-Paket freetype in der developement-Version installiert werden
+#apt-get install libfreetype-dev
+matplotlib~=2.2.3
+imageio==2.15.0
+imageio-ffmpeg
+
+### Alles zusammen
+scikit-learn~=1.0
+pandas~=1.3.3
+seaborn
+keras==2.4.0
+# scikit-image version 0.19.2
+scikit-image
+
+# numpy~=1.19.4
+gym~=0.21.0
+tensorflow-probability==0.12.2
+tf-agents~=0.8
+
+
+
+
+
+
+
