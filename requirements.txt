@@ -19,6 +19,8 @@ scikit-image
 gym~=0.21.0
 tensorflow-probability==0.12.2
 tf-agents~=0.8
+pydot==1.4.1
+graphviz==2.38
 
 
 
